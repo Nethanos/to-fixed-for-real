@@ -1,0 +1,21 @@
+{
+  "name": "to-fixed-for-real",
+  "version": "1.0.0",
+  "description": "Fix two decimal cases in currency value without worrying about wrong math rounds.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest index.spec.js"
+  },
+  "keywords": [
+    "tofixed",
+    "fixed",
+    "math",
+    "currency"
+  ],
+  "author": "nethanos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
